@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<meta http-equiv="refresh" content="5" />
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Tweet Stats</title>
+</head>
+<body>
+<div align=center>
+    {% if stats.users > 0 %}
+    crunched {{ stats.tweets }} tweets and {{ stats.users }} users, most tweets by user: @{{ stats.max_user }}
+    {% else %}
+    No Tweets and Users. :(
+    {% endif %}
+</div>
+
+</body>
+</html>
