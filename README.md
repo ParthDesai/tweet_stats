@@ -16,6 +16,6 @@ Response code : `302`
 
 Prerequisits
 ------------
-`rq` [Website](http://python-rq.org)
-`Flask` [Website](http://flask.pocoo.org)
-`SqlAlchemy` [Website](http://www.sqlalchemy.org)
+- `rq` [Website](http://python-rq.org)
+- `Flask` [Website](http://flask.pocoo.org)
+- `SqlAlchemy` [Website](http://www.sqlalchemy.org)
