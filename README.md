@@ -8,7 +8,7 @@ for the keyword.
 
 API
 ---
-### GET `/start`
+#### GET `/start`
 - Description : starts the backgrond process of tweets fetching.
 - Query Arguments : `keyword` (keyword to track in tweets)
 - Response code : `302`
