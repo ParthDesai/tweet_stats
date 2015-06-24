@@ -1,0 +1,6 @@
+SQLAlchemy==1.0.5
+Flask==0.10.1
+rq==0.5.3
+tweepy==3.3.0
+redis==2.10.3
+psycopg2==2.6.1
